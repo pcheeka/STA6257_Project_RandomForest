@@ -19,7 +19,7 @@ editor:
 
 ## Introduction
 
-### What is "mehtod"?
+### What is "method"?
 
 This is an introduction to Kernel regression, which is a non-parametric
 estimator that estimates the conditional expectation of two variables
@@ -35,6 +35,37 @@ This is my work and I want to add more work...
 ### Related work
 
 This section is going to cover the literature review...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Methods
 
